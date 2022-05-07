@@ -89,6 +89,8 @@ class ViewController: UIViewController {
         
         
         
+        
+        
     }
     
     //ギターボタンの上でタッチが終わる時に呼ばれる
