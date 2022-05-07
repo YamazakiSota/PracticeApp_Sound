@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1651075495, 580433845]
+build_end_time: [1651075510, 253420829]
+inputs:
+  ? "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/\u5C31\u6D3B/LIfe is Tech/iPhone/\u9B3C\u8AB2\u984C/sound/sound/AppDelegate.swift"
+  : [1651031991, 143071413]
+  ? "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/\u5C31\u6D3B/LIfe is Tech/iPhone/\u9B3C\u8AB2\u984C/sound/sound/SceneDelegate.swift"
+  : [1651031991, 153894424]
+  ? "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/\u5C31\u6D3B/LIfe is Tech/iPhone/\u9B3C\u8AB2\u984C/sound/sound/ViewController.swift"
+  : [1651046554, 960815906]

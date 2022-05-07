@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "747957b5e4a971c84c2039f8b291d078839f1b62caa337ce7807ac71b3efb698"
+    }
+  ],
+  "containerPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/sound.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Build/Products",
+      "derivedDataPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "9DEDE4FB-5757-49C6-A80B-9BF5BF4E72D0",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

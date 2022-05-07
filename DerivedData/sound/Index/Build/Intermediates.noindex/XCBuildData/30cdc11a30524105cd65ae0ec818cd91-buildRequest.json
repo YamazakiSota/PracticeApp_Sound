@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "747957b5e4a971c84c2039f8b291d078839f1b62caa337ce7807ac71b3efb698"
+    }
+  ],
+  "containerPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/sound.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Index/Build/Products",
+      "derivedDataPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/yamazakisota/Library/CloudStorage/OneDrive-OsakaUniversity/就活/LIfe is Tech/iPhone/鬼課題/sound/DerivedData/sound/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
