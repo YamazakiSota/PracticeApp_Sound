@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-sound in sound, no dependencies
-sound in sound, no dependencies
