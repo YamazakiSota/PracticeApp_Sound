@@ -50,6 +50,7 @@ class ViewController: UIViewController {
         drumSoundPlayer.play()
     }
     
+    
     //ドラムボタンの上でタッチが終わる時に呼ばれる
     @IBAction func touchUpDrumButton(){
         
@@ -75,6 +76,9 @@ class ViewController: UIViewController {
         //ピアノがなっていない画像に切り替える
         pianoButton.setImage(UIImage(named: "pianoImage"), for: .normal)
     }
+    
+    
+    
     
     //ギターがタッチが始まった時に呼ばれる
     @IBAction func touchDownGuitarButton(){
