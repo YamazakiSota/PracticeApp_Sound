@@ -12,6 +12,7 @@ import AVFoundation
 
 class ViewController: UIViewController {
     
+    
     //ドラムを表示する箱を作る
     @IBOutlet var drumButton: UIButton!
     
