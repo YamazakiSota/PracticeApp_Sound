@@ -8,6 +8,8 @@
 import UIKit
 import AVFoundation
 
+
+
 class ViewController: UIViewController {
     
     //ドラムを表示する箱を作る
@@ -92,6 +94,7 @@ class ViewController: UIViewController {
         guitarSoundPlayer.play()
         
     }
+    
     
     //ギターボタンの上でタッチが終わる時に呼ばれる
     @IBAction func touchUpGuitarButton(){
