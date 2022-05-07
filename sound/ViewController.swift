@@ -87,6 +87,8 @@ class ViewController: UIViewController {
         //ギターの音を再生する
         guitarSoundPlayer.play()
         
+        
+        
     }
     
     //ギターボタンの上でタッチが終わる時に呼ばれる
